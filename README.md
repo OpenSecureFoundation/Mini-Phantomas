@@ -1,2 +1,3 @@
 # Mini-Phantomas
-4. Malware éducatif (keylogger, C2, botnet)
+
+Conception, development et déploiement de Mini Phantomas un cheval de Troie éducatif avec keylogger, Backdor et command and control pour la gestion de botnet
